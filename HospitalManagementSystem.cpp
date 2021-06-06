@@ -1,7 +1,6 @@
 // Hospital Management System 
 // This program involves; registration system, COVID-19 Risk tests, arranging online appointments and more... 
 // Name Surname: FURKAN ARSLAN 
-// Student Number: B1905.010055 
 
 #include <stdio.h>
 #include <string.h>
